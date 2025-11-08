@@ -33,7 +33,8 @@ Code uses these libraries:
 
 ## Case
 
-Here is the preview openSCAD Case for the cabletester
+Here is the preview openSCAD Case for the cabletester.
+You need 4x M3x10mm countersunk screws and 4x M3 nuts.
 
 ![OpenScad Case w. Frame](OpenSCADCase/Case_preview.png)
 
